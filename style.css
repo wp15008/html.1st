@@ -1,6 +1,6 @@
 body {
 	color: #535353;
-	font-size: 13px;
+	font-size: 15px;
 	line-height: 1.5;
 	text-align: center;
 }
@@ -11,7 +11,7 @@ body {
 }
 h2 {
 	font-size: 185%;
-	border-left: 15px solid #668800;
+	border-left: 25px solid #668800;
 	/*border-top: 1px solid #000000;*/
 	padding-left: 10px;
 }
@@ -80,7 +80,7 @@ ul{
 	list-style-type:  none;
 	margin: 0;
 	padding: 0;
-	font-size: 13px;
+	font-size: 15px;
 	overflow: hidden;
 	background-color: #88aa00;
 }
@@ -105,11 +105,11 @@ li a:link{
 	text-decoration: none;
 }
 li a:visited{
-	color: #eeee00;
+	color: ##2F4F4F;
 	text-decoration: none;
 }
 li a:hover {
-	color: #000000;
+	color: #ffff00;
 	text-decoration: none;
-	border-bottom:  solid 5px #CC9900;
+	border-bottom:  solid 5px #cc9900;
 }
