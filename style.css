@@ -1,6 +1,6 @@
 body {
 	color: #535353;
-	font-size: 15px;
+	font-size: 17px;
 	line-height: 1.5;
 	text-align: center;
 }
@@ -23,6 +23,9 @@ h3{
 }
 h4{
 	font-size: 124%;
+}
+h5{
+
 }
 address {
 	font-size: 85%;
@@ -80,14 +83,14 @@ ul{
 	list-style-type:  none;
 	margin: 0;
 	padding: 0;
-	font-size: 15px;
+	font-size: 16px;
 	overflow: hidden;
 	background-color: #88aa00;
 }
 li{
 	float: left;
 	margin-right: 0px;
-	width: 100px;
+	width: 120px;
 	text-align: center;
 	border-right: solid 1px #ffffff;
 }
